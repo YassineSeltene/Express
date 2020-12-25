@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(116, 173, 196);
+}
+.navbar {
+    display: flex;
+    background-color: rgba(146, 142, 137, 0.74);
+    color: aliceblue;
+    margin-top: 0px;
+    justify-content: space-around;
+    font-size: 25px;
+    font-weight: bold;
+    list-style: none
+}
